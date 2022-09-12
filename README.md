@@ -1,7 +1,7 @@
 <h1
   align="center"
 >
-  Logic for Artificial Intelligence 🚀🤖
+  🚀Logic for Artificial Intelligence 🤖
 </h1>
 
 <h3
